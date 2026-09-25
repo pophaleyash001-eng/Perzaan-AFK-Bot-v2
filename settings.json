@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "
-sad1.sadhost.com",
+    "ip": "sad1.sadhost.com",
     "port":27456,
     "version": "1.21.1"
   },

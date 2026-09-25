@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "
-sad1.sadhost.com:27456",
+sad1.sadhost.com",
     "port":27456,
     "version": "1.21.1"
   },

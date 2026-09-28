@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EntitySMP-era5.aternos.me",
+    "ip": "entitysmp-net.aternos.me",
     "port":16578,
     "version": "1.21.1"
   },

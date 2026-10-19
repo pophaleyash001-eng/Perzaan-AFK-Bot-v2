@@ -8,7 +8,7 @@
   "server": {
     "ip": "entitysmp-net.aternos.me",
     "port":16578,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
